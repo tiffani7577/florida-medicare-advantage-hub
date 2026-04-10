@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Inter:wght@400;500;600;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-teal: #0d9488;
+  --brand-teal-dark: #0f766e;
+  --brand-amber: #d97706;
+  --brand-cream: #fdf8f0;
+  --brand-slate: #1e3a5f;
+}
+
+@layer base {
+  html { font-size: 17px; scroll-behavior: smooth; }
+  body { @apply bg-[#fdf8f0] text-gray-800 font-sans antialiased; }
+  h1, h2, h3, h4 { @apply font-serif; }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center gap-2 bg-[#0d9488] hover:bg-[#0f766e] text-white font-semibold px-6 py-3 rounded-lg transition-colors duration-200 text-base;
+  }
+  .btn-amber {
+    @apply inline-flex items-center gap-2 bg-[#d97706] hover:bg-[#b45309] text-white font-semibold px-6 py-3 rounded-lg transition-colors duration-200 text-base;
+  }
+  .btn-outline {
+    @apply inline-flex items-center gap-2 border-2 border-[#0d9488] text-[#0d9488] hover:bg-[#0d9488] hover:text-white font-semibold px-6 py-3 rounded-lg transition-colors duration-200 text-base;
+  }
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-gray-100 p-6;
+  }
+  .section-title {
+    @apply font-serif text-3xl md:text-4xl font-bold text-[#1e3a5f] leading-tight;
+  }
+  .article-body {
+    @apply prose prose-lg max-w-none prose-headings:font-serif prose-headings:text-[#1e3a5f] prose-a:text-[#0d9488] prose-a:no-underline hover:prose-a:underline prose-strong:text-[#1e3a5f];
+  }
+}
