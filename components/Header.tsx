@@ -2,8 +2,8 @@
 import Link from "next/link";
 import { useState } from "react";
 
-const PHONE = "(754) 202-8472";
-const PHONE_HREF = "tel:+17542028472";
+const PHONE = "(435) 612-1009";
+const PHONE_HREF = "tel:+114356121009";
 
 const NAV = [
   { label: "Medicare Advantage", href: "/medicare-advantage" },

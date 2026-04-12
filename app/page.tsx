@@ -8,14 +8,14 @@ import { articles } from "@/lib/articles";
 
 export const metadata: Metadata = {
   title: "Florida Medicare Advantage Hub | Free Plan Help for Seniors",
-  description: "Florida seniors: get free help comparing Medicare Advantage plans for 2026. Licensed agent, all 67 counties, English & Español. Call (754) 202-8472.",
+  description: "Florida seniors: get free help comparing Medicare Advantage plans for 2026. Licensed agent, all 67 counties, English & Español. Call (435) 612-1009.",
   openGraph: {
     title: "Florida Medicare Advantage Hub | Free Plan Help for Seniors",
     description: "Florida seniors: get free help comparing Medicare Advantage plans for 2026. Licensed agent, all 67 counties. No cost to you.",
-    url: "https://floridamedicareadvantagehub.com",
+    url: "https://www.floridamedicareadvantagehub.com",
     type: "website",
   },
-  alternates: { canonical: "https://floridamedicareadvantagehub.com" },
+  alternates: { canonical: "https://www.floridamedicareadvantagehub.com" },
 };
 
 const TRUST = [
@@ -51,7 +51,7 @@ export default function HomePage() {
         {/* Alert Banner */}
         <div className="bg-red-700 text-white text-sm text-center py-3 px-4">
           ⚠️ <strong>Medicare Alert:</strong> Major carriers are discontinuing plans in your area for 2027. If you received a non-renewal notice, call{" "}
-          <a href="tel:+17542028472" className="underline font-semibold">(754) 202-8472</a> or get a free review below.
+          <a href="tel:+114356121009" className="underline font-semibold">(435) 612-1009</a> or get a free review below.
         </div>
 
         {/* Hero */}
@@ -75,8 +75,8 @@ export default function HomePage() {
                   </li>
                 ))}
               </ul>
-              <a href="tel:+17542028472" className="inline-flex items-center gap-2 bg-[#d97706] hover:bg-[#b45309] text-white font-bold px-8 py-4 rounded-lg text-lg transition-colors">
-                📞 (754) 202-8472
+              <a href="tel:+114356121009" className="inline-flex items-center gap-2 bg-[#d97706] hover:bg-[#b45309] text-white font-bold px-8 py-4 rounded-lg text-lg transition-colors">
+                📞 (435) 612-1009
               </a>
             </div>
             <div>

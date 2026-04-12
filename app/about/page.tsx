@@ -6,11 +6,11 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "About | Florida Medicare Advantage Hub",
   description: "Licensed Florida Medicare insurance agent serving all 67 counties. Free plan comparisons, English & Español. License #W942527.",
-  alternates: { canonical: "https://floridamedicareadvantagehub.com/about" },
+  alternates: { canonical: "https://www.floridamedicareadvantagehub.com/about" },
   openGraph: {
     title: "About | Florida Medicare Advantage Hub",
     description: "Licensed Florida Medicare agent. Free help, all 67 counties, English & Español.",
-    url: "https://floridamedicareadvantagehub.com/about",
+    url: "https://www.floridamedicareadvantagehub.com/about",
   },
 };
 

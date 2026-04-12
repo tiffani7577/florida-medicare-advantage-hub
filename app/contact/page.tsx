@@ -5,12 +5,12 @@ import LeadCaptureForm from "@/components/LeadCaptureForm";
 
 export const metadata: Metadata = {
   title: "Contact | Florida Medicare Advantage Hub",
-  description: "Contact a licensed Florida Medicare agent. Free plan reviews, all 67 counties, English & Español. Call (754) 202-8472 or submit a request online.",
-  alternates: { canonical: "https://floridamedicareadvantagehub.com/contact" },
+  description: "Contact a licensed Florida Medicare agent. Free plan reviews, all 67 counties, English & Español. Call (435) 612-1009 or submit a request online.",
+  alternates: { canonical: "https://www.floridamedicareadvantagehub.com/contact" },
   openGraph: {
     title: "Contact | Florida Medicare Advantage Hub",
-    description: "Free Medicare plan review. Licensed Florida agent. Call (754) 202-8472.",
-    url: "https://floridamedicareadvantagehub.com/contact",
+    description: "Free Medicare plan review. Licensed Florida agent. Call (435) 612-1009.",
+    url: "https://www.floridamedicareadvantagehub.com/contact",
   },
 };
 
@@ -35,7 +35,7 @@ export default function ContactPage() {
                   <span className="text-2xl">📞</span>
                   <div>
                     <h3 className="font-semibold text-[#1e3a5f] mb-1">Call or Text</h3>
-                    <a href="tel:+17542028472" className="text-[#0d9488] font-bold text-lg hover:underline">(754) 202-8472</a>
+                    <a href="tel:+114356121009" className="text-[#0d9488] font-bold text-lg hover:underline">(435) 612-1009</a>
                     <p className="text-sm text-gray-500 mt-1">Mon–Fri 9am–6pm ET · Sat by appointment</p>
                   </div>
                 </div>

@@ -5,12 +5,12 @@ import LeadCaptureForm from "@/components/LeadCaptureForm";
 
 export const metadata: Metadata = {
   title: "Dual Eligible Medicare Plans Florida | D-SNP Help",
-  description: "Florida seniors who qualify for both Medicare and Medicaid may get extra benefits at $0 cost. Free D-SNP plan help from a licensed agent. Call (754) 202-8472.",
-  alternates: { canonical: "https://floridamedicareadvantagehub.com/dual-eligible" },
+  description: "Florida seniors who qualify for both Medicare and Medicaid may get extra benefits at $0 cost. Free D-SNP plan help from a licensed agent. Call (435) 612-1009.",
+  alternates: { canonical: "https://www.floridamedicareadvantagehub.com/dual-eligible" },
   openGraph: {
     title: "Dual Eligible Medicare Plans Florida | D-SNP Help",
     description: "Free D-SNP plan help for Florida seniors who qualify for Medicare and Medicaid.",
-    url: "https://floridamedicareadvantagehub.com/dual-eligible",
+    url: "https://www.floridamedicareadvantagehub.com/dual-eligible",
   },
 };
 
@@ -54,8 +54,8 @@ export default function DualEligiblePage() {
               <div className="card border-l-4 border-[#d97706]">
                 <h3 className="font-semibold text-[#1e3a5f] mb-2">Not Sure If You Qualify?</h3>
                 <p className="text-sm text-gray-600 mb-4">Many Florida seniors don't realize they qualify for Medicaid assistance programs. A licensed agent can check your eligibility in minutes at no cost.</p>
-                <a href="tel:+17542028472" className="inline-flex items-center gap-2 bg-[#d97706] text-white font-semibold px-5 py-2.5 rounded-lg text-sm hover:bg-[#b45309] transition-colors">
-                  📞 Call (754) 202-8472
+                <a href="tel:+114356121009" className="inline-flex items-center gap-2 bg-[#d97706] text-white font-semibold px-5 py-2.5 rounded-lg text-sm hover:bg-[#b45309] transition-colors">
+                  📞 Call (435) 612-1009
                 </a>
               </div>
             </div>

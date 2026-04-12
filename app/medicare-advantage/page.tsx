@@ -6,12 +6,12 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Medicare Advantage Plans Florida 2026 | Free Comparison",
-  description: "Compare Medicare Advantage (Part C) plans in Florida for 2026. HMO, PPO, and D-SNP options. Free help from a licensed Florida agent. Call (754) 202-8472.",
-  alternates: { canonical: "https://floridamedicareadvantagehub.com/medicare-advantage" },
+  description: "Compare Medicare Advantage (Part C) plans in Florida for 2026. HMO, PPO, and D-SNP options. Free help from a licensed Florida agent. Call (435) 612-1009.",
+  alternates: { canonical: "https://www.floridamedicareadvantagehub.com/medicare-advantage" },
   openGraph: {
     title: "Medicare Advantage Plans Florida 2026 | Free Comparison",
     description: "Compare Medicare Advantage plans in Florida. Free licensed agent help.",
-    url: "https://floridamedicareadvantagehub.com/medicare-advantage",
+    url: "https://www.floridamedicareadvantagehub.com/medicare-advantage",
   },
 };
 

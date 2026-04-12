@@ -18,12 +18,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!c) return {};
   return {
     title: `Medicare Advantage Plans in ${c.name}, FL | Free Help`,
-    description: `Compare Medicare Advantage plans in ${c.name}, Florida for 2026. Free help from a licensed agent. Call (754) 202-8472.`,
-    alternates: { canonical: `https://floridamedicareadvantagehub.com/florida/${city}` },
+    description: `Compare Medicare Advantage plans in ${c.name}, Florida for 2026. Free help from a licensed agent. Call (435) 612-1009.`,
+    alternates: { canonical: `https://www.floridamedicareadvantagehub.com/florida/${city}` },
     openGraph: {
       title: `Medicare Advantage Plans in ${c.name}, FL`,
       description: `Free Medicare plan comparison in ${c.name}, Florida. Licensed agent, no cost.`,
-      url: `https://floridamedicareadvantagehub.com/florida/${city}`,
+      url: `https://www.floridamedicareadvantagehub.com/florida/${city}`,
     },
   };
 }
@@ -38,9 +38,9 @@ export default async function CityPage({ params }: Props) {
     "@type": "LocalBusiness",
     name: "Florida Medicare Advantage Hub",
     description: `Licensed Medicare insurance agent serving ${c.name}, Florida`,
-    telephone: "+17542028472",
+    telephone: "+114356121009",
     areaServed: { "@type": "City", name: c.name, containedInPlace: { "@type": "State", name: "Florida" } },
-    url: `https://floridamedicareadvantagehub.com/florida/${city}`,
+    url: `https://www.floridamedicareadvantagehub.com/florida/${city}`,
   };
 
   return (
@@ -100,7 +100,7 @@ export default async function CityPage({ params }: Props) {
               </div>
               <div className="card border-l-4 border-[#1e3a5f]">
                 <h3 className="font-semibold text-[#1e3a5f] mb-1">Got a Non-Renewal Notice?</h3>
-                <p className="text-sm text-gray-600">You have Guaranteed Issue rights. Call <a href="tel:+17542028472" className="text-[#0d9488] font-semibold">(754) 202-8472</a> immediately.</p>
+                <p className="text-sm text-gray-600">You have Guaranteed Issue rights. Call <a href="tel:+114356121009" className="text-[#0d9488] font-semibold">(435) 612-1009</a> immediately.</p>
               </div>
             </div>
           </div>

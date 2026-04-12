@@ -30,7 +30,7 @@ export default function LeadCaptureForm({ city, title = "Get Your Free Plan Revi
       <div className="bg-white rounded-xl shadow-lg border border-gray-100 p-8 text-center">
         <div className="text-4xl mb-3">✅</div>
         <h3 className="font-serif text-xl font-bold text-[#1e3a5f] mb-2">We'll Be In Touch Soon!</h3>
-        <p className="text-gray-600">A licensed Florida agent will contact you within 24 hours. You can also call us directly at <a href="tel:+17542028472" className="text-[#0d9488] font-semibold">(754) 202-8472</a>.</p>
+        <p className="text-gray-600">A licensed Florida agent will contact you within 24 hours. You can also call us directly at <a href="tel:+114356121009" className="text-[#0d9488] font-semibold">(435) 612-1009</a>.</p>
       </div>
     );
   }
@@ -75,10 +75,10 @@ export default function LeadCaptureForm({ city, title = "Get Your Free Plan Revi
           {status === "sending" ? "Sending..." : "Get My Free Plan Review →"}
         </button>
         <p className="text-xs text-gray-400 text-center leading-relaxed">
-          By submitting you consent to be contacted by a licensed Florida insurance agent at (754) 202-8472. We do not sell your personal information.
+          By submitting you consent to be contacted by a licensed Florida insurance agent at (435) 612-1009. We do not sell your personal information.
         </p>
       </form>
-      {status === "error" && <p className="text-red-600 text-sm mt-2 text-center">Something went wrong. Please call us at (754) 202-8472.</p>}
+      {status === "error" && <p className="text-red-600 text-sm mt-2 text-center">Something went wrong. Please call us at (435) 612-1009.</p>}
     </div>
   );
 }

@@ -8,11 +8,11 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Florida Medicare Blog | News, Tips & Plan Updates",
   description: "Stay informed with the latest Florida Medicare news, plan changes, enrollment tips, and carrier updates. Written by a licensed Florida insurance agent.",
-  alternates: { canonical: "https://floridamedicareadvantagehub.com/blog" },
+  alternates: { canonical: "https://www.floridamedicareadvantagehub.com/blog" },
   openGraph: {
     title: "Florida Medicare Blog | News, Tips & Plan Updates",
     description: "Latest Florida Medicare news and plan updates from a licensed agent.",
-    url: "https://floridamedicareadvantagehub.com/blog",
+    url: "https://www.floridamedicareadvantagehub.com/blog",
   },
 };
 

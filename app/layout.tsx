@@ -6,8 +6,8 @@ export const metadata: Metadata = {
     default: "Florida Medicare Advantage Hub | Free Plan Help",
     template: "%s | FL Medicare Hub",
   },
-  description: "Free Medicare plan help for Florida seniors. Licensed agent serving all 67 Florida counties. Call (754) 202-8472.",
-  metadataBase: new URL("https://floridamedicareadvantagehub.com"),
+  description: "Free Medicare plan help for Florida seniors. Licensed agent serving all 67 Florida counties. Call (435) 612-1009.",
+  metadataBase: new URL("https://www.floridamedicareadvantagehub.com"),
   openGraph: {
     siteName: "Florida Medicare Advantage Hub",
     locale: "en_US",

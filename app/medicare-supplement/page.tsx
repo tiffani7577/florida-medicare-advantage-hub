@@ -6,12 +6,12 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Medicare Supplement Plans Florida 2026 | Medigap Help",
-  description: "Compare Medicare Supplement (Medigap) plans in Florida. Plan G, Plan N, year-round enrollment. Free help from a licensed Florida agent. Call (754) 202-8472.",
-  alternates: { canonical: "https://floridamedicareadvantagehub.com/medicare-supplement" },
+  description: "Compare Medicare Supplement (Medigap) plans in Florida. Plan G, Plan N, year-round enrollment. Free help from a licensed Florida agent. Call (435) 612-1009.",
+  alternates: { canonical: "https://www.floridamedicareadvantagehub.com/medicare-supplement" },
   openGraph: {
     title: "Medicare Supplement Plans Florida 2026 | Medigap Help",
     description: "Compare Medigap plans in Florida. Year-round enrollment, no network restrictions.",
-    url: "https://floridamedicareadvantagehub.com/medicare-supplement",
+    url: "https://www.floridamedicareadvantagehub.com/medicare-supplement",
   },
 };
 

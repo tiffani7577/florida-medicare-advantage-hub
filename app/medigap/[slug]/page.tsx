@@ -22,11 +22,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: page.metaTitle,
     description: page.metaDescription,
-    alternates: { canonical: `https://floridamedicareadvantagehub.com/medigap/${slug}` },
+    alternates: { canonical: `https://www.floridamedicareadvantagehub.com/medigap/${slug}` },
     openGraph: {
       title: page.metaTitle,
       description: page.metaDescription,
-      url: `https://floridamedicareadvantagehub.com/medigap/${slug}`,
+      url: `https://www.floridamedicareadvantagehub.com/medigap/${slug}`,
     },
   };
 }

@@ -3,7 +3,7 @@ import { articles } from "@/lib/articles";
 import { floridaCities as cities } from "@/lib/cities";
 import { medigapCities, medigapComparisons } from "@/lib/medigap";
 
-const BASE = "https://floridamedicareadvantagehub.com";
+const BASE = "https://www.floridamedicareadvantagehub.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages = [

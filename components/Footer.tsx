@@ -8,8 +8,8 @@ export default function Footer() {
         <h2 className="font-serif text-2xl md:text-3xl font-bold mb-2">Ready to Find Your Best Plan?</h2>
         <p className="text-teal-100 mb-6 max-w-xl mx-auto">Free consultation. No obligation. Response within 24 hours.</p>
         <div className="flex flex-col sm:flex-row gap-3 justify-center">
-          <a href="tel:+17542028472" className="bg-[#d97706] hover:bg-[#b45309] text-white font-semibold px-8 py-3 rounded-lg transition-colors">
-            📞 (754) 202-8472
+          <a href="tel:+114356121009" className="bg-[#d97706] hover:bg-[#b45309] text-white font-semibold px-8 py-3 rounded-lg transition-colors">
+            📞 (435) 612-1009
           </a>
           <Link href="/contact" className="bg-white text-[#0d9488] hover:bg-gray-50 font-semibold px-8 py-3 rounded-lg transition-colors">
             Get Free Plan Review →
@@ -44,7 +44,7 @@ export default function Footer() {
           <div>
             <h3 className="font-semibold text-white mb-3">Contact</h3>
             <ul className="space-y-2 text-sm">
-              <li><a href="tel:+17542028472" className="hover:text-white">(754) 202-8472</a></li>
+              <li><a href="tel:+114356121009" className="hover:text-white">(435) 612-1009</a></li>
               <li>Serving All 67 Florida Counties</li>
               <li>English &amp; Español</li>
               <li>No Cost — Ever</li>

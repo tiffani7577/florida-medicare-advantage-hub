@@ -20,11 +20,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${shortTitle} | FL Medicare Hub`,
     description: article.description.length > 155 ? article.description.slice(0, 152) + "…" : article.description,
-    alternates: { canonical: `https://floridamedicareadvantagehub.com/blog/${slug}` },
+    alternates: { canonical: `https://www.floridamedicareadvantagehub.com/blog/${slug}` },
     openGraph: {
       title: article.title,
       description: article.description,
-      url: `https://floridamedicareadvantagehub.com/blog/${slug}`,
+      url: `https://www.floridamedicareadvantagehub.com/blog/${slug}`,
       type: "article",
       publishedTime: article.datePublished,
     },
@@ -46,8 +46,8 @@ export default async function BlogPostPage({ params }: Props) {
     description: article.description,
     datePublished: article.datePublished,
     author: { "@type": "Person", name: "Licensed Florida Medicare Agent", jobTitle: "Licensed Insurance Agent" },
-    publisher: { "@type": "Organization", name: "Florida Medicare Advantage Hub", url: "https://floridamedicareadvantagehub.com" },
-    mainEntityOfPage: `https://floridamedicareadvantagehub.com/blog/${slug}`,
+    publisher: { "@type": "Organization", name: "Florida Medicare Advantage Hub", url: "https://www.floridamedicareadvantagehub.com" },
+    mainEntityOfPage: `https://www.floridamedicareadvantagehub.com/blog/${slug}`,
   };
 
   return (

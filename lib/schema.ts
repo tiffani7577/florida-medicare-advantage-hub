@@ -6,7 +6,7 @@ export const insuranceAgencySchema = {
   "@type": "InsuranceAgency",
   "name": "Florida Medicare Advantage Hub",
   "url": "https://floridamedicareadvantagehub.com",
-  "telephone": "(754) 202-8472",
+  "telephone": "(435) 612-1009",
   "description": "Free Medicare help for Florida seniors. Compare Medicare Advantage and Supplement plans across all 67 Florida counties.",
   "areaServed": { "@type": "State", "name": "Florida" },
   "hasCredential": {
@@ -79,7 +79,7 @@ export function localBusinessSchema(city: string, county: string) {
     "@type": "LocalBusiness",
     "name": `Florida Medicare Advantage Hub — ${city}`,
     "url": `https://floridamedicareadvantagehub.com/florida/${city.toLowerCase().replace(/\s+/g, '-')}`,
-    "telephone": "(754) 202-8472",
+    "telephone": "(435) 612-1009",
     "areaServed": [
       { "@type": "City", "name": city },
       { "@type": "AdministrativeArea", "name": `${county} County, Florida` }

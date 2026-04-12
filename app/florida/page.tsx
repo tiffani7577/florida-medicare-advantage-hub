@@ -7,11 +7,11 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Medicare Help by Florida City | All 67 Counties",
   description: "Find Medicare Advantage and Medigap plan help in your Florida city. Licensed agent serving all 67 Florida counties. Free consultations.",
-  alternates: { canonical: "https://floridamedicareadvantagehub.com/florida" },
+  alternates: { canonical: "https://www.floridamedicareadvantagehub.com/florida" },
   openGraph: {
     title: "Medicare Help by Florida City | All 67 Counties",
     description: "Find Medicare plan help in your Florida city. Free licensed agent consultations.",
-    url: "https://floridamedicareadvantagehub.com/florida",
+    url: "https://www.floridamedicareadvantagehub.com/florida",
   },
 };
 

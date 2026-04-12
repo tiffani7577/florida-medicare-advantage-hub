@@ -48,17 +48,17 @@ export const articles: Article[] = [
 <p>Do not wait until December. Best plans fill up. Agents get busy. Your Guaranteed Issue window runs 63 days from when old coverage ends.</p>
 
 <h2>How to Find a Replacement Plan</h2>
-<p>List your current doctors and prescriptions. Compare plans in your specific Florida zip code — plans vary by zip code within counties. You can compare at Medicare.gov or call <a href="tel:7542028472">(754) 202-8472</a> for free help from a licensed Florida agent.</p>
+<p>List your current doctors and prescriptions. Compare plans in your specific Florida zip code — plans vary by zip code within counties. You can compare at Medicare.gov or call <a href="tel:14356121009">(435) 612-1009</a> for free help from a licensed Florida agent.</p>
 
 <h2>What Happens If You Do Nothing</h2>
 <p>If you take no action, CMS will attempt to auto-enroll you in a comparable plan in your area if one is available. However, "comparable" does not mean identical. Your doctors may not be in the new network. Your drug formulary may change. Your out-of-pocket costs may be higher. Do not rely on auto-enrollment — take control of this decision yourself.</p>
 
 <h2>Special Considerations for Cancer Patients</h2>
-<p>If you are currently receiving cancer treatment at Moffitt Cancer Center in Tampa, this situation is particularly urgent. Moffitt is dropping Humana Medicare Advantage beginning July 2026. If you have Humana and are mid-treatment at Moffitt, you need to act immediately — not in October. Contact us at <a href="tel:7542028472">(754) 202-8472</a> to discuss your continuity of care options.</p>
+<p>If you are currently receiving cancer treatment at Moffitt Cancer Center in Tampa, this situation is particularly urgent. Moffitt is dropping Humana Medicare Advantage beginning July 2026. If you have Humana and are mid-treatment at Moffitt, you need to act immediately — not in October. Contact us at <a href="tel:14356121009">(435) 612-1009</a> to discuss your continuity of care options.</p>
 
 <h2>Get Free Help From a Licensed Florida Agent</h2>
 <p>You do not need to navigate this alone. A licensed Florida Medicare agent can review your current plan, identify the best replacement options in your specific zip code, and walk you through enrollment at absolutely no cost to you. Agents are compensated by the insurance carriers, not by you.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> or complete the form below to get started.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> or complete the form below to get started.</p>
     `
   },
   {
@@ -92,7 +92,7 @@ export const articles: Article[] = [
 
 <h2>How to Find UHC Alternatives in Your Florida Zip Code</h2>
 <p>Medicare plan availability is zip-code specific. A plan available in Broward County may not be available in Collier County. The most accurate way to compare alternatives is to use Medicare.gov's plan finder with your specific zip code, or work with a licensed Florida agent who can run a comprehensive comparison for you.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for a free comparison. A licensed Florida agent will review every plan available in your zip code and help you find one that keeps your doctors and prescriptions covered.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for a free comparison. A licensed Florida agent will review every plan available in your zip code and help you find one that keeps your doctors and prescriptions covered.</p>
 
 <h2>Your Action Timeline</h2>
 <ul>
@@ -142,7 +142,7 @@ export const articles: Article[] = [
 
 <h2>The 2026 Carrier Exits as a Reason to Reconsider</h2>
 <p>If you have been on Medicare Advantage for years and are now facing a non-renewal, this is an ideal moment to evaluate whether Medigap is a better long-term fit. Your Guaranteed Issue right means you can switch to Medigap without medical underwriting — an opportunity that may not come again.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for a free side-by-side comparison tailored to your specific situation.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for a free side-by-side comparison tailored to your specific situation.</p>
     `
   },
   {
@@ -192,7 +192,7 @@ export const articles: Article[] = [
 
 <h2>Best Plans to Choose During GI Period</h2>
 <p>Plan G is the most popular choice during GI periods because it provides the most comprehensive coverage. The only out-of-pocket cost is the annual Part B deductible ($257 in 2026). Plan N offers lower premiums with small copays for office and ER visits — a good choice for healthy seniors who want to save on monthly costs.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for a free comparison of Medigap premiums in your Florida zip code. A licensed agent will help you use your GI right before the window closes.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for a free comparison of Medigap premiums in your Florida zip code. A licensed agent will help you use your GI right before the window closes.</p>
     `
   },
   {
@@ -226,7 +226,7 @@ export const articles: Article[] = [
 
 <h2>How to Enroll Through a Licensed Agent</h2>
 <p>You can enroll in Florida Blue Medicare Supplement through a licensed Florida insurance agent at no additional cost. The agent does not add to your premium — they are compensated by Florida Blue. Working with an agent gives you access to premium comparisons across multiple carriers so you can confirm Florida Blue is the best price for your age and zip code.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for a free Florida Blue quote alongside competing carriers.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for a free Florida Blue quote alongside competing carriers.</p>
 
 <h2>Comparison to Other Florida Medigap Carriers</h2>
 <p>Florida Blue competes primarily with Mutual of Omaha, Aetna, Cigna, and United American in the Florida Medigap market. Benefits are identical across all carriers for the same plan letter — only premiums differ. Florida Blue is typically mid-range on price, often slightly higher than Mutual of Omaha but with stronger brand recognition and Florida-specific customer service.</p>
@@ -271,9 +271,9 @@ export const articles: Article[] = [
 <h2>Miami-Dade and Broward Context</h2>
 <p>South Florida has the highest concentration of dual eligible beneficiaries in the state. Miami-Dade and Broward counties have multiple D-SNP options with strong Spanish-language support. If you or a family member qualifies, the extra benefits available in these counties can be life-changing.</p>
 
-<p><em>¿Tienes Medicare y Medicaid? Puedes calificar para un plan especial con beneficios adicionales como comida gratis, transporte médico, y más. Llámenos al <a href="tel:7542028472">(754) 202-8472</a> para ayuda gratuita en español.</em></p>
+<p><em>¿Tienes Medicare y Medicaid? Puedes calificar para un plan especial con beneficios adicionales como comida gratis, transporte médico, y más. Llámenos al <a href="tel:14356121009">(435) 612-1009</a> para ayuda gratuita en español.</em></p>
 
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for a free D-SNP comparison in your Florida county.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for a free D-SNP comparison in your Florida county.</p>
     `
   },
   {
@@ -313,7 +313,7 @@ export const articles: Article[] = [
 <h2>Common AEP Mistakes</h2>
 <p>The most common mistake is waiting until late November or December to start shopping. The best plans in high-demand counties can reach capacity. Agents become unavailable as demand spikes. Start your research in October when AEP opens.</p>
 <p>The second most common mistake is choosing based on premium alone. A $0 premium plan with a $9,000 out-of-pocket maximum can cost far more than a $50/month plan with a $3,000 maximum if you have significant health needs.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for free help navigating AEP 2026.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for free help navigating AEP 2026.</p>
     `
   },
   {
@@ -350,7 +350,7 @@ export const articles: Article[] = [
   <li>Determine if you qualify for a Special Enrollment Period</li>
   <li>Enroll in a new plan before July 1, 2026</li>
 </ol>
-<p>This situation requires urgency. If you or a family member is receiving cancer treatment at Moffitt with Humana Medicare Advantage, call <a href="tel:7542028472">(754) 202-8472</a> immediately for emergency plan review assistance.</p>
+<p>This situation requires urgency. If you or a family member is receiving cancer treatment at Moffitt with Humana Medicare Advantage, call <a href="tel:14356121009">(435) 612-1009</a> immediately for emergency plan review assistance.</p>
     `
   },
   {
@@ -381,7 +381,7 @@ export const articles: Article[] = [
 
 <h2>Who Plan G Is Best For</h2>
 <p>Plan G is the right choice for seniors with chronic conditions or frequent medical needs, those who want completely predictable healthcare costs, those who travel extensively or split time between states, and those who want the freedom to see any Medicare-accepting provider without network restrictions.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for a free Plan G quote comparison across Florida's top Medigap carriers.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for a free Plan G quote comparison across Florida's top Medigap carriers.</p>
     `
   },
   {
@@ -409,7 +409,7 @@ export const articles: Article[] = [
 
 <h2>Plan N Pricing in Florida 2026</h2>
 <p>At age 65, Plan N premiums in Florida typically range from $90–$140 per month. At age 70, expect $110–$170 per month. The savings versus Plan G are consistent across age groups, making Plan N an attractive option throughout retirement.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for a free Plan N vs Plan G comparison in your Florida zip code.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for a free Plan N vs Plan G comparison in your Florida zip code.</p>
     `
   },
   {
@@ -439,7 +439,7 @@ export const articles: Article[] = [
 
 <h2>Florida-Specific Considerations</h2>
 <p>Florida's issue-age Medigap pricing makes enrolling at 65 particularly advantageous. Your premium is locked at your enrollment age — the younger you enroll, the lower your lifetime premium base. Florida also has a large Medicare Advantage market with competitive plans, but the 2026 carrier exits are a cautionary tale about MA plan stability.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for free guidance on your Medicare options at 65 in Florida.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for free guidance on your Medicare options at 65 in Florida.</p>
     `
   },
   {
@@ -469,7 +469,7 @@ export const articles: Article[] = [
 
 <h2>The 2026 Context</h2>
 <p>With Humana and UHC exiting Florida counties, many seniors are being forced to change plans regardless of preference. If your current HMO is being discontinued, this is an opportunity to evaluate whether a PPO or Medigap better fits your needs going forward.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for a free comparison of HMO and PPO options in your Florida zip code.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for a free comparison of HMO and PPO options in your Florida zip code.</p>
     `
   },
   {
@@ -498,7 +498,7 @@ export const articles: Article[] = [
 
 <h2>How to Use Your SEP</h2>
 <p>To use a SEP, you typically need to provide documentation of your qualifying event. For plan non-renewals, your non-renewal letter serves as documentation. Contact Medicare at 1-800-MEDICARE or work with a licensed Florida agent who can guide you through the SEP enrollment process.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> to determine if you qualify for a SEP and what your options are.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> to determine if you qualify for a SEP and what your options are.</p>
     `
   },
   {
@@ -525,7 +525,7 @@ export const articles: Article[] = [
 <p>Florida has a high concentration of seniors on specialty medications for conditions like diabetes, heart disease, cancer, and autoimmune disorders. The $2,000 cap provides the most benefit to those with the highest drug costs. If you currently spend more than $2,000 per year on Part D drugs, you will see direct savings in 2026.</p>
 
 <h2>Choosing the Right Part D Plan</h2>
-<p>With the new cap, the calculus for choosing a Part D plan has shifted. Plans with lower premiums and higher cost-sharing may now be more attractive for high-cost drug users, since the cap limits total exposure. Compare plans at Medicare.gov using your specific medication list, or call <a href="tel:7542028472">(754) 202-8472</a> for free Part D comparison assistance.</p>
+<p>With the new cap, the calculus for choosing a Part D plan has shifted. Plans with lower premiums and higher cost-sharing may now be more attractive for high-cost drug users, since the cap limits total exposure. Compare plans at Medicare.gov using your specific medication list, or call <a href="tel:14356121009">(435) 612-1009</a> for free Part D comparison assistance.</p>
     `
   },
   {
@@ -553,11 +553,11 @@ export const articles: Article[] = [
   <li>List your current doctors and confirm their network participation in replacement plans</li>
   <li>Compare Medicare Advantage and Medigap options for your specific zip code</li>
   <li>Act before December 7 — do not wait for the last minute</li>
-  <li>Call <a href="tel:7542028472">(754) 202-8472</a> for free help from a licensed Broward County Medicare agent</li>
+  <li>Call <a href="tel:14356121009">(435) 612-1009</a> for free help from a licensed Broward County Medicare agent</li>
 </ol>
 
 <h2>Cities We Serve in Broward County</h2>
-<p>We help Medicare beneficiaries across all Broward County cities including Fort Lauderdale, Hollywood, Pompano Beach, Coral Springs, Deerfield Beach, Plantation, Margate, Weston, Miramar, Pembroke Pines, and all other Broward communities. Call <a href="tel:7542028472">(754) 202-8472</a> for local Medicare help.</p>
+<p>We help Medicare beneficiaries across all Broward County cities including Fort Lauderdale, Hollywood, Pompano Beach, Coral Springs, Deerfield Beach, Plantation, Margate, Weston, Miramar, Pembroke Pines, and all other Broward communities. Call <a href="tel:14356121009">(435) 612-1009</a> for local Medicare help.</p>
     `
   },
   {
@@ -575,7 +575,7 @@ export const articles: Article[] = [
 
 <h2>Spanish-Language Medicare Help</h2>
 <p>Miami-Dade has a large Spanish-speaking senior population, particularly in Hialeah, Westchester, Kendall, and Little Havana. Navigating Medicare plan changes is complex enough in English — in a second language, it can be overwhelming. We offer complete Spanish-language Medicare assistance.</p>
-<p><em>Ofrecemos asistencia completa en español para beneficiarios de Medicare en Miami-Dade. Si recibió una carta de no renovación de Humana o UnitedHealthcare, llámenos al <a href="tel:7542028472">(754) 202-8472</a>. Un agente de seguros licenciado en Florida le ayudará a encontrar el mejor plan de reemplazo sin ningún costo para usted.</em></p>
+<p><em>Ofrecemos asistencia completa en español para beneficiarios de Medicare en Miami-Dade. Si recibió una carta de no renovación de Humana o UnitedHealthcare, llámenos al <a href="tel:14356121009">(435) 612-1009</a>. Un agente de seguros licenciado en Florida le ayudará a encontrar el mejor plan de reemplazo sin ningún costo para usted.</em></p>
 
 <h2>D-SNP Options in Miami-Dade</h2>
 <p>Miami-Dade has one of the highest concentrations of dual eligible beneficiaries in Florida. If you have both Medicare and Medicaid, you may qualify for a D-SNP with extra benefits including free groceries, transportation, dental, and more. Miami-Dade D-SNP options include plans from Simply Healthcare, Devoted Health, and Sunshine Health.</p>
@@ -584,7 +584,7 @@ export const articles: Article[] = [
 <p>Jackson Health System, Baptist Health South Florida, and Cleveland Clinic Florida are the major hospital systems in Miami-Dade. When selecting a replacement Medicare plan, verify your preferred hospitals and specialists are in-network. This is particularly important for seniors with established specialist relationships.</p>
 
 <h2>Get Free Help in Miami-Dade</h2>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for free Medicare help in Miami-Dade County. English and Spanish. All Miami-Dade zip codes covered. Response within 24 hours.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for free Medicare help in Miami-Dade County. English and Spanish. All Miami-Dade zip codes covered. Response within 24 hours.</p>
     `
   },
   {
@@ -616,7 +616,7 @@ export const articles: Article[] = [
 <p>Many Florida Medicare Advantage plans include non-emergency medical transportation — rides to doctor appointments, pharmacies, and medical facilities. Some plans offer unlimited rides; others cap at a set number per year. For seniors who no longer drive, this benefit can be transformative.</p>
 
 <h2>Comparing Extra Benefits</h2>
-<p>Extra benefits vary dramatically between plans and zip codes. A plan with excellent dental coverage in Broward County may not be available in Collier County. The only way to accurately compare extra benefits is to look at plans available in your specific zip code. Call <a href="tel:7542028472">(754) 202-8472</a> for a free extra benefits comparison in your area.</p>
+<p>Extra benefits vary dramatically between plans and zip codes. A plan with excellent dental coverage in Broward County may not be available in Collier County. The only way to accurately compare extra benefits is to look at plans available in your specific zip code. Call <a href="tel:14356121009">(435) 612-1009</a> for a free extra benefits comparison in your area.</p>
     `
   },
   {
@@ -658,7 +658,7 @@ export const articles: Article[] = [
 
 <h2>How to Find the Lowest Premium</h2>
 <p>The most efficient way to find the lowest Medigap premium in your Florida zip code is to work with an independent licensed agent who represents multiple carriers. An independent agent can run a side-by-side comparison of all available carriers in seconds and identify the best price for your age and zip code.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for a free Medigap premium comparison. There is no cost to you — agents are compensated by the carriers.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for a free Medigap premium comparison. There is no cost to you — agents are compensated by the carriers.</p>
     `
   },
   {
@@ -683,7 +683,7 @@ export const articles: Article[] = [
 
 <h2>How to Use Star Ratings in Your Decision</h2>
 <p>Star ratings should be one factor among several in your plan selection. A 5-star plan with a narrow network that excludes your doctors is worse than a 4-star plan that includes them. Use star ratings as a quality filter — eliminate plans below 3 stars — then compare network, benefits, and cost among the remaining options.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for a free comparison of top-rated Medicare Advantage plans in your Florida zip code.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for a free comparison of top-rated Medicare Advantage plans in your Florida zip code.</p>
     `
   },
   {
@@ -712,7 +712,7 @@ export const articles: Article[] = [
 
 <h2>Florida Medicare Opportunities for New Residents</h2>
 <p>Moving to Florida creates a unique Medicare planning opportunity. Florida's issue-age Medigap pricing, strong Medicare Advantage market, and large provider networks make it one of the best states for Medicare coverage. Work with a licensed Florida agent to evaluate your options as a new resident.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for free Medicare transition help for new Florida residents.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for free Medicare transition help for new Florida residents.</p>
     `
   },
   {
@@ -740,7 +740,7 @@ export const articles: Article[] = [
 
 <h2>Planning Ahead</h2>
 <p>The best time to plan for long-term care costs is before you need them. Options include long-term care insurance, hybrid life/LTC policies, and Medicaid planning strategies. A licensed insurance agent can help you evaluate long-term care insurance options alongside your Medicare coverage.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for a comprehensive Medicare and long-term care planning consultation.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for a comprehensive Medicare and long-term care planning consultation.</p>
     `
   },
   {
@@ -767,7 +767,7 @@ export const articles: Article[] = [
 
 <h2>SHIP and Licensed Agents: Complementary Resources</h2>
 <p>SHIP and licensed insurance agents serve complementary roles. SHIP provides unbiased education; licensed agents provide enrollment assistance and plan-specific guidance. Many Florida seniors use both resources — SHIP to understand their options and a licensed agent to enroll in the best plan.</p>
-<p>For enrollment assistance and plan comparisons, call <a href="tel:7542028472">(754) 202-8472</a>. For unbiased education, contact Florida SHIP at 1-800-963-5337.</p>
+<p>For enrollment assistance and plan comparisons, call <a href="tel:14356121009">(435) 612-1009</a>. For unbiased education, contact Florida SHIP at 1-800-963-5337.</p>
     `
   },
   {
@@ -795,7 +795,7 @@ export const articles: Article[] = [
 
 <h2>Prior Authorization and Medigap</h2>
 <p>Medigap plans do not require prior authorization. If Original Medicare covers a service, your Medigap plan pays its share automatically. This is one of the most significant practical advantages of Medigap over Medicare Advantage for seniors with complex health needs.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> to discuss whether a Medigap plan might better serve your healthcare needs.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> to discuss whether a Medigap plan might better serve your healthcare needs.</p>
     `
   },
   {
@@ -825,7 +825,7 @@ export const articles: Article[] = [
 
 <h2>How to Choose the Right Alternative</h2>
 <p>The right Humana alternative depends on your zip code, your doctors, your prescriptions, and your budget. There is no single best plan for all Florida seniors. A licensed Florida agent can run a personalized comparison in minutes.</p>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> for a free comparison of Humana alternatives in your Florida zip code.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> for a free comparison of Humana alternatives in your Florida zip code.</p>
     `
   },
   {
@@ -842,7 +842,7 @@ export const articles: Article[] = [
 <p>Correct. Licensed insurance agents are compensated directly by the insurance carriers, not by you. You never pay a fee for consultation, plan comparison, or enrollment assistance.</p>
 
 <h2>2. My Humana plan is being cancelled. What do I do?</h2>
-<p>You have three options: enroll in a different Medicare Advantage plan, return to Original Medicare, or use your Guaranteed Issue right to purchase Medigap without medical underwriting. Call <a href="tel:7542028472">(754) 202-8472</a> for personalized guidance.</p>
+<p>You have three options: enroll in a different Medicare Advantage plan, return to Original Medicare, or use your Guaranteed Issue right to purchase Medigap without medical underwriting. Call <a href="tel:14356121009">(435) 612-1009</a> for personalized guidance.</p>
 
 <h2>3. What is the difference between Medicare Advantage and Medicare Supplement?</h2>
 <p>Medicare Advantage replaces Original Medicare through a private insurer with network restrictions. Medicare Supplement works alongside Original Medicare, covering cost-sharing gaps, with no network restrictions and no referrals required.</p>
@@ -857,7 +857,7 @@ export const articles: Article[] = [
 <p>A Dual Eligible Special Needs Plan is a Medicare Advantage plan for people with both Medicare and Medicaid. D-SNPs offer extra benefits like free groceries, transportation, and OTC allowances.</p>
 
 <h2>7. Do you help Spanish-speaking seniors?</h2>
-<p>Sí. Ofrecemos asistencia completa en español. Llámenos al <a href="tel:7542028472">(754) 202-8472</a>.</p>
+<p>Sí. Ofrecemos asistencia completa en español. Llámenos al <a href="tel:14356121009">(435) 612-1009</a>.</p>
 
 <h2>8. What is the Medicare Part B deductible in 2026?</h2>
 <p>The Medicare Part B deductible is $257 in 2026. Plan G covers everything except this deductible.</p>
@@ -887,7 +887,7 @@ export const articles: Article[] = [
 <p>The Medicare Part A deductible is $1,676 per benefit period in 2026. Plan G and Plan N both cover this deductible.</p>
 
 <h2>17. Do you cover all 67 Florida counties?</h2>
-<p>Yes. We help Medicare beneficiaries across all 67 Florida counties. Call <a href="tel:7542028472">(754) 202-8472</a>.</p>
+<p>Yes. We help Medicare beneficiaries across all 67 Florida counties. Call <a href="tel:14356121009">(435) 612-1009</a>.</p>
 
 <h2>18. What is Extra Help for Part D?</h2>
 <p>Extra Help (Low Income Subsidy) is a federal program that helps pay Part D premiums, deductibles, and copays for qualifying low-income beneficiaries.</p>
@@ -911,7 +911,7 @@ export const articles: Article[] = [
 <p>If you have employer coverage through active employment, you can delay Part B without penalty. Once employment ends, you have an 8-month SEP to enroll.</p>
 
 <h2>25. How do I get started?</h2>
-<p>Call <a href="tel:7542028472">(754) 202-8472</a> or complete the form below. A licensed Florida Medicare agent will contact you within 24 hours at no cost to you.</p>
+<p>Call <a href="tel:14356121009">(435) 612-1009</a> or complete the form below. A licensed Florida Medicare agent will contact you within 24 hours at no cost to you.</p>
     `
   }
 ];
