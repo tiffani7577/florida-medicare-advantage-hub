@@ -1,5 +1,4 @@
 import type { Metadata } from "next"
-import TrustStrip from "@/components/TrustStrip"
 
 export const metadata: Metadata = {
   title: "Medicare Advantage Plans Florida 2026: Compare Your Options",
@@ -130,7 +129,9 @@ export default function GeneratedPage() {
           <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">2026 Open Enrollment — Florida Medicare Advantage <a href="/blog">blog</a></p>
           <h1 className="text-3xl font-semibold tracking-tight md:text-4xl">Medicare Advantage Plans in Florida for 2026: What You Need to Know Before You Choose</h1>
           <p className="direct-answer-summary text-base leading-relaxed text-muted-foreground">Florida seniors can choose from dozens of Medicare Advantage plans for 2026 during Open Enrollment (October 15 – December 7, 2025). Plans vary significantly by monthly premium, out-of-pocket maximum, drug formulary, and provider network — and the wrong choice can cost thousands. A licensed Florida Medicare agent can compare every plan available in your county at no cost to you. <a href="/blog/[slug]">[slug]</a></p>
-      <TrustStrip />
+          <div className="text-xs text-muted-foreground border-t pt-4 mt-4">
+            Sarah Mitchell | Licensed Florida Insurance Agent | NPN #20585949 | License W942527 | Not affiliated with Medicare or any government agency.
+          </div>
 
           <p className="text-sm leading-relaxed text-muted-foreground">Choosing the wrong Medicare Advantage plan in Florida can mean losing your doctor, paying more for prescriptions, or facing unexpected out-of-pocket costs. We help Florida seniors compare every plan available in their county — free, with no obligation. <a href="/florida/[city]">[city]</a></p>
           <ul className="flex flex-wrap gap-2 text-xs text-muted-foreground"><li className="rounded border px-2 py-1">Licensed Florida Insurance Professional — License W942527 <a href="/medigap/[slug]">[slug] (1)</a></li><li className="rounded border px-2 py-1">Independent: we compare plans from multiple carriers, not just one</li><li className="rounded border px-2 py-1">No cost to you — agents are compensated by the plan, never by you</li><li className="rounded border px-2 py-1">Florida-specific guidance for Miami-Dade, Broward, Palm Beach, and all 67 counties</li></ul>
